@@ -1,0 +1,13 @@
+{
+  "name": "poc-api",
+  "version": "0.0.0",
+  "description": "POC API examples",
+  "main": "index.js",
+  "scripts": {
+    "streaming": "node streaming.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
